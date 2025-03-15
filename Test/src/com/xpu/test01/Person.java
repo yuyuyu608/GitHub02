@@ -8,4 +8,5 @@ package com.xpu.test01;
 
 public class Person {
     public int weight;
+    public int height;
 }
