@@ -7,4 +7,6 @@ package com.xpu.test01;
  */
 
 public class Student {
+    public int name;
+    private int age;
 }
